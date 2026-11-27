@@ -1,16 +1,15 @@
-## Hi there 👋
+# توك عراق — نسخة واجهات أولية
 
-<!--
-**Tikiraq/Tikiraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+هذا مشروع Flutter أولي باللغة العربية واتجاه RTL، بألوان العلم العراقي.
 
-Here are some ideas to get you started:
+## ما الموجود؟
+- واجهات رئيسية وسوق ولايف وحساب شخصي.
+- عرض منتجات تجريبية وتفاصيل المنتج.
+- تصميم أولي لزر التواصل عبر واتساب.
+- سير عمل GitHub Actions لبناء APK عند رفع المشروع إلى مستودع GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## مهم
+هذه نسخة واجهات تجريبية وليست منصة إنتاجية بعد. تسجيل الحسابات، رفع الصور والمنتجات، واتساب الفعلي، التقييمات، والبث المباشر الحقيقي تحتاج خادماً وقاعدة بيانات وخدمة بث، ولم يتم تنفيذها أو اختبارها في هذه النسخة.
+
+## بناء APK
+من مستودع GitHub: افتح Actions ثم Build Android APK ثم Run workflow. بعد اكتمال البناء نزّل artifact باسم `took-iraq-apk` واستخرج ملف APK وثبّته على هاتف Android.
